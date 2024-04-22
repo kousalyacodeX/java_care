@@ -1,0 +1,16 @@
+comparison operators in Java:-
+
+1. Equal ==
+2. less than or equal[<=]
+3. not equal [!=]
+4. less than [<]
+5. greater than [>]
+6. greater than or equal [>=]
+1.} it compares whether two values are equal or not, and gives a true or false result.
+
+
+logical operators in Java:-
+logical Operators: Logical operators are a type of operators used to evaluate whether an expression or combination of expressions is true or false.
+1. Logical And (&&)
+2. Logical Or (||)
+3. logical Not (!)
